@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "question": "Quel légendaire guerrier Wookiee est depuis longtemps le fidèle compagnon d'Han Solo ?",
+       "answer": "Chewbacca"
+    },
+
+    {
+      "id": 2,
+      "question": "Sur quelle planète désertique Anakin Skywalker est-il arrivé à l'âge de quatre ans ?",
+      "answer": "Tatooine"
+             
+    }
+
+  ]
